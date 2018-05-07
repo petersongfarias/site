@@ -5,14 +5,14 @@
     Author URL: https://bootstrapmade.com
 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
 }
 
 p {
   line-height: 1.55;
   color: #333;
   font-size: 400;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: "Arial Rounded", "Helvetica Rounded", Arial, sans-serif;
 }
 
 h1 {
@@ -54,7 +54,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  background-color: #041E43;
   color: #fff;
 }
 
@@ -119,7 +119,7 @@ a:hover {
   background-image: url(../img/cover.png);
   background-size: cover;
   padding: 150px 0;
-  color: #fff;
+  color: #041E43;
   width: 100%;
   height: 100vh;
 }
@@ -128,7 +128,7 @@ a:hover {
   content: '';
   z-index: 0;
   position: absolute;
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0);
   width: 100%;
   height: 100%;
   left: 0;
@@ -154,10 +154,10 @@ a:hover {
 }
 
 .tagline {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: "Arial Rounded", "Helvetica Rounded", Arial, sans-serif;
   font-size: 26px;
   margin: 45px 0 75px 0;
-  color: #fff;
+  color: #041E43;
 }
 
 /* ==================================================
